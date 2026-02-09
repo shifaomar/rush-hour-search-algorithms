@@ -5,9 +5,8 @@
 EXIT_ROW = 2
 EXIT_COL = 6
 
-
+#Read a board file and return the 6x6 interior as a tuple of tuples
 def parse_board_file(filepath):
-    """Read a board file and return the 6x6 interior as a tuple of tuples."""
     with open(filepath) as f:
         lines = [line.rstrip() for line in f.readlines()]
     rows = []
