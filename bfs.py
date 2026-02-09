@@ -43,9 +43,9 @@ def main():
         sys.exit(1)
 
     # for report (remove maybe later)
-    print("Nodes visited:", nodes_visited, file=sys.stderr)
-    for move in solution:
-        print(move)
+    # print("Nodes visited:", nodes_visited, file=sys.stderr)
+    # for move in solution:
+    #     print(move)
 
 
 if __name__ == "__main__":

@@ -61,9 +61,9 @@ def main():
         print("No solution found :(", file=sys.stderr)
         sys.exit(1)
     #remove later, for report
-    print("Nodes visited:", nodes_visited, file=sys.stderr)
-    for move in solution:
-        print(move)
+    # print("Nodes visited:", nodes_visited, file=sys.stderr)
+    # for move in solution:
+    #     print(move)
 
 
 if __name__ == "__main__":
