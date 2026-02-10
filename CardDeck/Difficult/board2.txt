@@ -1,0 +1,8 @@
++------+
+|  ARRR|
+|Q ABCD|
+|QXXBCD*
+|Q     |
+| G FF |
+| G  EE|
++------+
