@@ -1,8 +1,0 @@
-+------+
-|BBOPPP|
-|AAO  C|
-|XXO  C*
-|FEE   |
-|F DD  |
-|   QQQ|
-+------+
